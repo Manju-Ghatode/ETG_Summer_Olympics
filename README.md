@@ -1,1 +1,2 @@
-# Skills_India_AI_ML_Scholaership_Summer_Olympics_Datasets_Analysis
+# Skills_India_AI_ML_Scholaership
+# Summer_Olympics_Datasets_Analysis_Assignment
